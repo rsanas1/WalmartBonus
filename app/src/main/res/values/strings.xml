@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WalmartBonus</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_amount">$amount</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="product_image">Product Image</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="reviews"> Reviews</string>
+    <string name="review"> Review</string>
+    <string name="not_available">Not Available</string>
+    <string name="available">Available</string>
+    <string name="show_more"><u>Show More</u></string>
+    <string name="show_less"><u>Show Less</u></string>
+    <string name="product_description">Product Description</string>
+    <string name="amount">$amount</string>
+    <string name="title_title_list">titles</string>
+    <string name="title_title_detail">title Detail</string>
+    <string name="title_activity_detail_acitivty">DetailAcitivty</string>
+</resources>
